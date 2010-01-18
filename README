@@ -1,0 +1,6 @@
+Rexcel is a rails plugin made to create custom and stylish excel files from your applications.
+
+It is inspired by Brian P. Hogan's excel plugin (http://www.napcsweb.com/blog/2006/02/10/excel-plugin-10/) that provides a quick an easy way to export your object collections to an excel workbook. 
+
+See Rexcel documentation and example on:
+http://www.xaop.com/blog/2008/12/23/rexcel-plugin/
